@@ -7,10 +7,11 @@ description: "
   Sumário: <br>
   <ol class=\"list-group\">
     <li> <a href=\"#1-objetivo\">Objetivo</a> </li> <br>
-    <li> <a href=\"#2-requisitos\">Requisitos</a> </li> <br>
+    <li> <a href=\"#2-requisitos\">Requisitos</a> <br>
       <ol class=\"list-group\">
         <li> <a href=\"#22-funcionais\">Requisitos Funcionais</a></li> <br>
       </ol>
+    </li> 
     <li> <a href=\"#3-analise-de-projeto\">Análise de Projetos</a> </li> <br>
     <li> <a href=\"#4-implementacao\">Implementação</a> </li> <br>
     <li> <a href=\"#5-planejamento-e-gerencia\">Planejamento e Gerência</a> </li> <br>
