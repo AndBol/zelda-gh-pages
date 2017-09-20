@@ -79,7 +79,7 @@ Se for uma tabela pequena, utilizar:
 | Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 
 Se for uma tabela muito grande, redirecionar para uma página contendo a tabela, utilizando:
-![Tabela](link para a tabela)
+![Tabela](www.google.com)
 
 * * *
 
@@ -92,7 +92,9 @@ Se for uma tabela muito grande, redirecionar para uma página contendo a tabela,
 | Ariel Rocha    | Organização das tarefas |    SIM    |
 | Amanda         | Elaboração de planilhas |    SIM    |
 | Ana Jessye     | Elaboração de planilhas |    SIM    |
-| André Ricardo  | Elaboração de planilhas Implementação do Login Único Implementação do login do Admin |    SIM    |
+| André Ricardo  | Elaboração de planilhas
+Implementação do Login Único
+ Implementação do login do Admin |    SIM    |
 | Boniácio       | Checagem das tarefas    |    NÃO    |
 | Bruno Oliveira | Checagem das tarefas    |    NÃO    |
 | Caio Oliveira  | Checagem das tarefas    |    NÃO    |
