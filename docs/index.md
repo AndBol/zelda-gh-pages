@@ -52,6 +52,7 @@ end
 ###### [](#header-6)Header 6
 
 #### [](#header-4)Equipe X
+
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
 | Thatielen Oliveira | Organização das tarefas |    SIM    |
