@@ -5,17 +5,15 @@ description: "
 </p>
 <p>
   Sumário: <br>
-  <ol class=\"list-group\">
-    <li> <a href=\"#1-objetivo\">Objetivo</a> </li> <br>
-    <li> <a href=\"#2-requisitos\">Requisitos</a> <br>
-      <ol class=\"list-group\">
-        <li> <a href=\"#22-funcionais\">Requisitos Funcionais</a></li> <br>
-      </ol>
-    </li> 
-    <li> <a href=\"#3-analise-de-projeto\">Análise de Projetos</a> </li> <br>
-    <li> <a href=\"#4-implementacao\">Implementação</a> </li> <br>
-    <li> <a href=\"#5-planejamento-e-gerencia\">Planejamento e Gerência</a> </li> <br>
-  </ol>
+  1. <a href=\"#1-objetivo\">Objetivo</a> <br>
+  2. <a href=\"#2-requisitos\">Requisitos</a> <br>
+  <div class=\"tabula\">
+    2.1 <a href=\"#22-funcionais\">Requisitos Funcionais</a>
+  </div>
+  3. <a href=\"#3-analise-de-projeto\">Análise de Projetos</a> <br>
+  4. <a href=\"#4-implementacao\">Implementação</a> <br>
+  5. <a href=\"#5-planejamento-e-gerencia\">Planejamento e Gerência</a> <br>
+  
 </p>
 "
 show_downloads: false
