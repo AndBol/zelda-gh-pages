@@ -190,7 +190,7 @@ Segue abaixo a iteração entre as telas do sistema.
 
 ## [5. ](#header-2)Planejamento e Gerência
 
-#### [](#header-3)Equipe 1
+#### [5.1. ](#header-3)Equipe 1
 
 | Integrante             | Atividade                  | Concluída |
 |:-----------------|:---------------------------|:----------|
@@ -209,7 +209,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Caio Oliveira    | Implementar a autenticação | NÃO       |
 | Caio Oliveira    | Regras de Negócio          | SIM       |
 
-#### [](#header-3)Equipe 2
+#### [5.2. ](#header-3)Equipe 2
 
 |     Integrante     | Atividade                | Concluída |
 |:-------------------|:------------------------ |:----------|
@@ -220,7 +220,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Filip              | Criar Tabelas Setores    |    SIM    |
 | Felipe             | Criar Tabela Usuários    |    SIM    |
 
-#### [](#header-3)Equipe 3
+#### [5.3. ](#header-3)Equipe 3
 
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
@@ -229,7 +229,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Kid Mendes e Kylciane Freitas |  Tela Tabela de Setores  |    SIM    |
 | Leonardo Monteiro e Jansen |  Tela Tabela de Usuários    |    SIM    |
 
-#### [](#header-3)Equipe 4
+#### [5.4. ](#header-3)Equipe 4
 
 |     Integrante     | Atividade                         | Concluída |
 |:-------------------|:----------------------------------|:----------|
@@ -239,7 +239,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Levi Silva         | DER pé de galinha do usuario      |    SIM    |
 | Lorene M.          | Implementar tela de criar usuario |    SIM    |
 
-#### [](#header-3)Equipe 5
+#### [5.5. ](#header-3)Equipe 5
 
 |     Integrante     | Atividade                         | Concluída |
 |:-------------------|:----------------------------------|:----------|
@@ -252,7 +252,7 @@ Segue abaixo a iteração entre as telas do sistema.
 |Paulo​ ​ Freitas  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ usuários​ ​ cadastrados |SIM|
 |Rodrigo​ ​ Moraes  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ funcionários​ ​ cadastrados |SIM|
 
-#### [](#header-3)Equipe 6
+#### [5.6. ](#header-3)Equipe 6
 
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
