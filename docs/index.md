@@ -55,18 +55,28 @@ Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a
 Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
 
 * Nome do Diagrama
-![](endereçamento pro arquivo)
-* Nome do Diagrama
-![](endereçamento pro arquivo)
-* Nome do Diagrama
-![](endereçamento pro arquivo)
-* Nome do Diagrama
-![](endereçamento pro arquivo)
-* Nome do Diagrama
-![](endereçamento pro arquivo)
-* Nome do Diagrama
+
 ![](endereçamento pro arquivo)
 
+* Nome do Diagrama
+
+![](endereçamento pro arquivo)
+
+* Nome do Diagrama
+
+![](endereçamento pro arquivo)
+
+* Nome do Diagrama
+
+![](endereçamento pro arquivo)
+
+* Nome do Diagrama
+
+![](endereçamento pro arquivo)
+
+* Nome do Diagrama
+
+![](endereçamento pro arquivo)
 
 * * *
 
@@ -94,12 +104,19 @@ Se for uma tabela muito grande, redirecionar para uma página contendo a tabela,
 > Recolhimento e apresentação das telas do sistema.
 
 * Nome da Tela
+
 ![](endereçamento pro arquivo)
+
 * Nome da Tela
+
 ![](endereçamento pro arquivo)
+
 * Nome da Tela
+
 ![](endereçamento pro arquivo)
+
 * Nome da Tela
+
 ![](endereçamento pro arquivo)
 
 * * *
@@ -131,6 +148,4 @@ Se for uma tabela muito grande, redirecionar para uma página contendo a tabela,
 
 * * *
 
-### Small image
-
-![](https://upload.wikimedia.org/wikipedia/commons/9/99/Brazão_UEA.jpg)
+![](http://www.cdn.ueg.br/source/mobilidade_nacional_211/noticias/31283/uea.png)
