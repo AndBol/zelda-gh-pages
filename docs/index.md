@@ -4,6 +4,7 @@ layout: default
 # [1.](#header-1) Objetivo
 
 Desenvolver um Sistema de protocolo de documentos, denominado Zelda, o qual é um protótipo do Sistema SAMUS. Com a finalidade de levantar os principais pontos relacionados ao desenvolvimento do projeto real, no que tange tecnologias e documentações relacionadas. Para que a experiência de desenvolvimento seja a mais branda possível, de forma a não ocorrer atrasos inesperados por ausência de conhecimento de determinada tecnologia, ou até mesmo, necessidade de conhecimento de funcionamento de processos.
+>Para acessar o código do projeto, [clique aqui](https://github.com/jucimarjr/zelda)
 
 # [2.](#header-1) Requisitos
 Em outras palavras, descrevem a funcionalidade ou serviço que se espera que o sistema forneça. Dependendo do tipo de software do requisito a ser descrito é possíveis criar subgrupos de requisitos funcionais, normalmente subdivididos como requisitos funcinais de usuário e do sistema (SOMERVILLE, 2001).
