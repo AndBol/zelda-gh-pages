@@ -50,7 +50,7 @@ end
 3.  This is an ordered list following a header.
 
 ###### [](#header-6)Header 6
-bacon
+
 |<div style= 'text-align: center'>head</div>|
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
