@@ -51,13 +51,13 @@ end
 
 ###### [](#header-6)Header 6
 
-|<div style= 'text-align: center'>head</div>|
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+#### [](#header-4)Equipe X
+|     Integrante     | Atividade               | Concluída |
+|:-------------------|:------------------------|:----------|
+| Thatielen Oliveira | Organização das tarefas |    SIM    |
+| Thatielen Oliveira | Elaboração de planilhas |    SIM    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 
 ### There's a horizontal rule below this.
 
