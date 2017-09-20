@@ -80,6 +80,26 @@ Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a
 
 * * *
 
+## [](#header-2)Regras de Negócio
+
+>Documento que informa o que cada objeto no sistema pode ou não fazer, e quais regras eles seguem.
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+* * *
+
 ## [](#header-2)Análise de Projeto
 
 > Inserir aqui breve descrição, conforme fornecido pela equipe responsável.
@@ -122,20 +142,6 @@ Se for uma tabela muito grande, redirecionar para uma página contendo a tabela,
 * * *
 
 ## [](#header-2)Planejamento e Gerência
-
-#### [](#header-4)Equipe 1
-
-|     Integrante     | Atividade               | Concluída |
-|:-------------------|:------------------------|:----------|
-| Ariel Rocha    | Implementar autenticação |    NÃO    |
-| Amanda         | Implementar autenticação |    NÃO    |
-| Ana Jessye     | Implementar Logout       |    NÃO    |
-| André Ricardo  | Organização das tarefas, implementação do Login Único, implementação do login do Admin, criar GitPage do Zelda |    SIM    |
-| Boniácio       | Implementar autenticação |    NÃO    |
-| Bruno Oliveira | Implementar Logout       |    NÃO    |
-| Caio Oliveira  | Implementar Autenticação |    NÃO    |
-| Stephany       | Implementar Logout       |    NÃO    |
-
 
 #### [](#header-4)Equipe X
 
