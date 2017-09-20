@@ -51,6 +51,7 @@ end
 
 ###### [](#header-6)Header 6
 
+|                head                      |
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
