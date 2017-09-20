@@ -1,19 +1,21 @@
 title: "Zelda Page"
 description: "
+<p>
   Documentação do Projeto Zelda
 </p>
 <p>
   Sumário: <br>
   <ol>
-    <li> <a href=\"#1-objetivo\">Objetivo</a> </li>
-    <li> <a href=\"#2-requisitos\">Requisitos</a> </li>
+    <li> <a href=\"#1-objetivo\">Objetivo</a> </li> <br>
+    <li> <a href=\"#2-requisitos\">Requisitos</a> </li> <br>
       <ol>
-        <li> <a href=\"#22-funcionais\">Requisitos Funcionais</a></li>
+        <li> <a href=\"#22-funcionais\">Requisitos Funcionais</a></li> <br>
       </ol>
-    <li> <a href=\"#3-analise-de-projeto\">Análise de Projetos</a> </li>
-    <li> <a href=\"#4-implementacao\">Implementação</a> </li>
-    <li> <a href=\"#5-planejamento-e-gerencia\">Planejamento e Gerência</a> </li>
+    <li> <a href=\"#3-analise-de-projeto\">Análise de Projetos</a> </li> <br>
+    <li> <a href=\"#4-implementacao\">Implementação</a> </li> <br>
+    <li> <a href=\"#5-planejamento-e-gerencia\">Planejamento e Gerência</a> </li> <br>
   </ol>
+</p>
 "
 show_downloads: false
 google_analytics: true
