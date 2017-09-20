@@ -188,16 +188,77 @@ Segue abaixo a iteração entre as telas do sistema.
 
 * * *
 
-## [](#header-2)Planejamento e Gerência
+## [5. ](#header-2)Planejamento e Gerência
 
-#### [](#header-4)Equipe X
+#### [](#header-4)Equipe 1
+
+| Integrante             | Atividade                  | Concluída |
+|:-----------------|:---------------------------|:----------|
+| Amanda           | Implementar a autenticação | NÃO       |
+| Ana JessyE       | Implementar o logout       | NÃO       |
+| André Ricardo    | Implementar o login único; implementar a autenticação de admin; gerenciamento das atividades; implementar o GitPages | SIM |
+| Ariel Rocha      | Implementar a autenticação | NÃO       |
+| Ariel Rocha      | Regras de negócio          | SIM       |
+| Beatriz Stephany | Implementar o logout       | NÃO       |
+| Beatriz Stephany | Implementar o login        | SIM       |
+| Bonifácio Leite  | Implementar a autenticação | NÃO       |
+| Bonifácio Leite  | Implementar a autenticação de admin|SIM|
+| Bruno Freire     | Implementar o logout       | NÃO       |
+| Bruno Freire     | Regras de negócio          | SIM       |
+| Caio Oliveira    | Implementar a autenticação | NÃO       |
+| Caio Oliveira    | Regras de Negócio          | SIM       |
+
+#### [](#header-5)Equipe 2
+
+|     Integrante     | Atividade                | Concluída |
+|:-------------------|:------------------------ |:----------|
+| Calebe             | Criar Tabela Usuários    |    SIM    |
+| Eduardo            | Criar Tabela Setores     |    SIM    |
+| Elisabeth          | Criar Tabela Funcionários|    SIM    |
+| Elissandra         | Criar Tabela Funcionários|    SIM    |
+| Filip              | Criar Tabelas Setores    |    SIM    |
+| Felipe             | Criar Tabela Usuários    |    SIM    |
+
+#### [](#header-5)Equipe 3
 
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
-| Thatielen Oliveira | Organização das tarefas |    SIM    |
-| Thatielen Oliveira | Elaboração de planilhas |    SIM    |
-| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
-| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+| João Oliveira | Organização das tarefas e Tela Cadastro Setor |    SIM    |
+| Jéssica Tavares e Jefferson Avilar | Tela Cadastro Usuário |    SIM    |
+| Kid Mendes e Kylciane Freitas |  Tela Tabela de Setores  |    SIM    |
+| Leonardo Monteiro e Jansen |  Tela Tabela de Usuários    |    SIM    |
+
+#### [](#header-5)Equipe 4
+
+|     Integrante     | Atividade                         | Concluída |
+|:-------------------|:----------------------------------|:----------|
+| Lucas Frota        | Organização das atividades        |    SIM    |
+| Luana Andrade      | Organização das atividades        |    SIM    |
+| Luiz Gadelha       | DER pé de galinha do usuario      |    SIM    |
+| Levi Silva         | DER pé de galinha do usuario      |    SIM    |
+| Lorene M.          | Implementar tela de criar usuario |    SIM    |
+
+#### [](#header-5)Equipe 5
+
+|     Integrante     | Atividade                         | Concluída |
+|:-------------------|:----------------------------------|:----------|
+|Marcos​ ​ Matos  |Pesquisa​ ​ de​ ​ usuário​ ​ pelo​ ​ ID | SIM |
+|Mateus​ ​ Mota  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ funcionários​ ​ de​ ​ um​ ​ setor |SIM|
+|Matheus​ ​ Obando  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ usuários​ ​ de​ ​ um​ ​ setor |SIM|
+|Mikael​ ​ Fonseca  |Refatoração​ ​ da​ ​ Classe​ ​ API​ ​ para​ ​ retorno​ ​ em​ ​ JSON |SIM|
+|Nadine​ ​ Brito  |Inclusão​ ​ de​ ​ funções​ ​ na​ ​ Classe​ ​ API |SIM|
+|Nicolas​ ​ Fernandes  |Pesquisa​ ​ de​ ​ funcionário​ ​ pelo​ ​ ID |SIM|
+|Paulo​ ​ Freitas  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ usuários​ ​ cadastrados |SIM|
+|Rodrigo​ ​ Moraes  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ funcionários​ ​ cadastrados |SIM|
+
+#### [](#header-5)Equipe 6
+
+|     Integrante     | Atividade               | Concluída |
+|:-------------------|:------------------------|:----------|
+| ThatielenOliveira | Organização das tarefas e descrição dos diagramas de casos de uso |    SIM   |
+| Thiago Santos | Descrição dos diagramas de casos de uso |    SIM    |
+| Vyctor Negreiros | Descrição dos diagramas de casos de uso    |    SIM    |
+| William Azevedo | Descrição dos diagramas de casos de uso    |    SIM    |
 
 * * *
 
