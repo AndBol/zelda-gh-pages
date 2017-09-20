@@ -155,7 +155,7 @@ Na coluna funcionario_id, ficam armazenados os dados referentes a identificaçã
 
 Na coluna funcionário_nome, ficam armazenados os nomes de cada usuário cadastrado no sistema
 
-Na coluna funcionario_situacao, ficam aramzenados a situacao de cada fucnionario sendo o valor 1 o valor inicial que determina funcionário ativo e caso haja uma alteracao na situação do funcionário ele recebe o valor 0 para inativo.
+Na coluna funcionario_situacao, ficam armazenados a situaçãso de cada funcionário sendo o valor 1 o valor inicial que determina funcionário ativo e caso haja uma alteração na situação do funcionário ele recebe o valor 0 para inativo.
 
 |     funcionario_id     | funcionario_nome                | funcionario_situacao |
 |:---------------------- |-------------------------------- |--------------------- |
@@ -168,25 +168,23 @@ Na coluna funcionario_situacao, ficam aramzenados a situacao de cada fucnionario
 
 * * *
 
-## [](#header-2)Implementação
+## [4. ](#header-2)Implementação
 
-> Recolhimento e apresentação das telas do sistema.
+Na sua versão atual, o sistema contém 6(seis) telas, que compõem o módulo Zelda. Onde estas são:
 
-* Nome da Tela
+- [Login](https://docs.google.com/a/uea.edu.br/document/d/1L7sYBf0ZaKGEKfPf_h7y5uq32a7BxG4NOdgCQpNOZrY/edit?usp=sharing)
+- [Administrador](https://drive.google.com/a/uea.edu.br/file/d/0B09Ckx-J88eyUE5feHprT1htUm8/view?usp=sharing)
+- [Usuário](https://drive.google.com/a/uea.edu.br/file/d/0B09Ckx-J88eyQ2pfVXFoMWhra2M/view?usp=sharing)
+- [Cadastro de funcionários](https://drive.google.com/a/uea.edu.br/file/d/0B09Ckx-J88eybXJaMU1zR1NiREk/view?usp=sharing)
+- [Cadastro de setor](https://drive.google.com/a/uea.edu.br/file/d/0B09Ckx-J88eyQUd2djdIaE1ZVU0/view?usp=sharing)
+- [Cadastro de usuário](https://drive.google.com/a/uea.edu.br/file/d/0B09Ckx-J88eyMGVoTkd6UGdZZms/view?usp=sharing)
+- [Listagem de funcionários](https://drive.google.com/a/uea.edu.br/file/d/0B09Ckx-J88eya2J0enU5d09iaUk/view?usp=sharing)
+- [Listagem de setores](https://drive.google.com/a/uea.edu.br/file/d/0B09Ckx-J88eya2J0enU5d09iaUk/view?usp=sharing)
+- [Listagem de usuários](https://drive.google.com/a/uea.edu.br/file/d/0B09Ckx-J88eydTRDV0V2WkhZaHM/view?usp=sharing)
 
-![](endereçamento pro arquivo)
+Segue abaixo a iteração entre as telas do sistema.
 
-* Nome da Tela
-
-![](endereçamento pro arquivo)
-
-* Nome da Tela
-
-![](endereçamento pro arquivo)
-
-* Nome da Tela
-
-![](endereçamento pro arquivo)
+![](images/Diagrama.png?raw=true)
 
 * * *
 
