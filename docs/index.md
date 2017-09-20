@@ -20,7 +20,7 @@ Em outras palavras, descrevem a funcionalidade ou serviço que se espera que o s
  |RNF005              |Segurança		            |O sistema deve garantir que seus dados não sejam acessados por pessoas sem as devidas permissões      |
  |RNF006		          |URLs amigáveis	          |O sistema deve possuir URLs de de fácil leitura e intuitivas	|
  |RNF007		          |Usuario Adiministrador   |Apenas o usuario administrador pode acessar os funcionarios e os seus setores |
- |RNF008		          |Telas separadas para funcionario e lotação| não tem |
+ |RNF008		          |Telas separadas para funcionario e lotação| <space><space> |
 
 * * *
 ## [2.2](#header-3) Funcionais
@@ -48,7 +48,7 @@ São os requisitos funcionais com os quais o usuário não interage diretamente,
 
 * * *
 
-## [](#header-2)Regras de Negócio
+## [2.3. ](#header-2)Regras de Negócio
 
 > Devido ao alto detalhamento das informações das regras de negócio, esta encontra-se nesta documentação somente em sua forma resumida. Para acessar o conteúdo completo, [clique aqui](https://docs.google.com/a/uea.edu.br/document/d/1L7sYBf0ZaKGEKfPf_h7y5uq32a7BxG4NOdgCQpNOZrY/edit?usp=sharing).
 
@@ -70,34 +70,35 @@ São os requisitos funcionais com os quais o usuário não interage diretamente,
 
 * * *
 
-## [](#header-2)Diagrama de Casos de Uso
+## [2.4. ](#header-2)Diagrama de Casos de Uso
 
-> Inserir aqui breve descrição, conforme fornecido pela equipe responsável.
-Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
+> Devido ao alto detalhamento das informações dos casos de uso, esta encontra-se nesta documentação somente em sua forma resumida. Para o conteúdo completo, [clique aqui](https://docs.google.com/a/uea.edu.br/document/d/1YnygnlwL0KUH9y1mdlf3ZreXEkavQIohUOKKkdrtPz4/edit?usp=sharing)
 
-* Nome do Diagrama
+![](images/Zelda_UCD.jpg)
 
-![](endereçamento pro arquivo)
+### [2.4.1 ](#header-2) Atores do Sistema
 
-* Nome do Diagrama
+- **Administrador**:  Usuário do sistema que possui acesso às funcionalidades de CRUD do sistema, incluindo o CRUD para as tabelas de Usuário, Funcionário e Setores.
 
-![](endereçamento pro arquivo)
+- **Usuário comum**: Usuário do sistema que, por enquanto, só pode visualizar seus dados de usuário após ser autenticado pelo sistema.
 
-* Nome do Diagrama
+### [2.4.2 ](#header-2) Casos de Uso
 
-![](endereçamento pro arquivo)
-
-* Nome do Diagrama
-
-![](endereçamento pro arquivo)
-
-* Nome do Diagrama
-
-![](endereçamento pro arquivo)
-
-* Nome do Diagrama
-
-![](endereçamento pro arquivo)
+- Cadastrar Setor
+- Cadastrar Funcionário
+- Cadastrar Usuário
+- Editar Usuário
+- Editar Setor
+- Editar Funcionário
+- Listar Funcionários
+- Listar Setores
+- Listar Usuários
+- Desativar Usuário
+- Desativar Setor
+- Desativar Funcionário
+- Login
+- Logout
+- Visualizar Dados de Usuário
 
 * * *
 
@@ -190,7 +191,7 @@ Segue abaixo a iteração entre as telas do sistema.
 
 ## [5. ](#header-2)Planejamento e Gerência
 
-#### [5.1. ](#header-3)Equipe 1
+### [5.1. ](#header-3)Equipe 1
 
 | Integrante             | Atividade                  | Concluída |
 |:-----------------|:---------------------------|:----------|
@@ -209,7 +210,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Caio Oliveira    | Implementar a autenticação | NÃO       |
 | Caio Oliveira    | Regras de Negócio          | SIM       |
 
-#### [5.2. ](#header-3)Equipe 2
+### [5.2. ](#header-3)Equipe 2
 
 |     Integrante     | Atividade                | Concluída |
 |:-------------------|:------------------------ |:----------|
@@ -220,7 +221,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Filip              | Criar Tabelas Setores    |    SIM    |
 | Felipe             | Criar Tabela Usuários    |    SIM    |
 
-#### [5.3. ](#header-3)Equipe 3
+### [5.3. ](#header-3)Equipe 3
 
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
@@ -229,7 +230,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Kid Mendes e Kylciane Freitas |  Tela Tabela de Setores  |    SIM    |
 | Leonardo Monteiro e Jansen |  Tela Tabela de Usuários    |    SIM    |
 
-#### [5.4. ](#header-3)Equipe 4
+### [5.4. ](#header-3)Equipe 4
 
 |     Integrante     | Atividade                         | Concluída |
 |:-------------------|:----------------------------------|:----------|
@@ -239,7 +240,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Levi Silva         | DER pé de galinha do usuario      |    SIM    |
 | Lorene M.          | Implementar tela de criar usuario |    SIM    |
 
-#### [5.5. ](#header-3)Equipe 5
+### [5.5. ](#header-3)Equipe 5
 
 |     Integrante     | Atividade                         | Concluída |
 |:-------------------|:----------------------------------|:----------|
@@ -252,7 +253,7 @@ Segue abaixo a iteração entre as telas do sistema.
 |Paulo​ ​ Freitas  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ usuários​ ​ cadastrados |SIM|
 |Rodrigo​ ​ Moraes  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ funcionários​ ​ cadastrados |SIM|
 
-#### [5.6. ](#header-3)Equipe 6
+### [5.6. ](#header-3)Equipe 6
 
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
