@@ -51,7 +51,7 @@ end
 
 ###### [](#header-6)Header 6
 
-|                head                      |
+|<div style= 'text-align: center'>head</div|
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
