@@ -81,13 +81,26 @@ Se for uma tabela pequena, utilizar:
 Se for uma tabela muito grande, redirecionar para uma página contendo a tabela, utilizando:
 ![Tabela](link para a tabela)
 
-##### [](#header-5)Header 5
+* * *
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## [](#header-2)Planejamento e Gerência
 
-###### [](#header-6)Header 6
+#### [](#header-4)Equipe 1
+
+|     Integrante     | Atividade               | Concluída |
+|:-------------------|:------------------------|:----------|
+| Ariel Rocha    | Organização das tarefas |    SIM    |
+| Amanda         | Elaboração de planilhas |    SIM    |
+| Ana Jessye     | Elaboração de planilhas |    SIM    |
+| André Ricardo  | Elaboração de planilhas Implementação do Login Único Implementação do login do Admin |    SIM    |
+| Boniácio       | Checagem das tarefas    |    NÃO    |
+| Bruno Oliveira | Checagem das tarefas    |    NÃO    |
+| Caio Oliveira  | Checagem das tarefas    |    NÃO    |
+| Stephany       | Checagem das tarefas    |    NÃO    |
+
+
+
+* * *
 
 #### [](#header-4)Equipe X
 
