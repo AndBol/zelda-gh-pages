@@ -92,9 +92,7 @@ Se for uma tabela muito grande, redirecionar para uma página contendo a tabela,
 | Ariel Rocha    | Organização das tarefas |    SIM    |
 | Amanda         | Elaboração de planilhas |    SIM    |
 | Ana Jessye     | Elaboração de planilhas |    SIM    |
-| André Ricardo  | Elaboração de planilhas
-Implementação do Login Único
- Implementação do login do Admin |    SIM    |
+| André Ricardo  | Organização das tarefas, implementação do Login Único, implementação do login do Admin, criar GitPage do Zelda |    SIM    |
 | Boniácio       | Checagem das tarefas    |    NÃO    |
 | Bruno Oliveira | Checagem das tarefas    |    NÃO    |
 | Caio Oliveira  | Checagem das tarefas    |    NÃO    |
