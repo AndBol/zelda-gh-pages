@@ -190,13 +190,14 @@ Segue abaixo a iteração entre as telas do sistema.
 
 ## [5. ](#header-2)Planejamento e Gerência
 
-#### [](#header-4)Equipe 1
+#### [](#header-3)Equipe 1
 
 | Integrante             | Atividade                  | Concluída |
 |:-----------------|:---------------------------|:----------|
 | Amanda           | Implementar a autenticação | NÃO       |
-| Ana JessyE       | Implementar o logout       | NÃO       |
-| André Ricardo    | Implementar o login único; implementar a autenticação de admin; gerenciamento das atividades; implementar o GitPages | SIM |
+| Ana Jessye       | Implementar o logout       | NÃO       |
+| André Ricardo    | Implementar login único, autenticação de admin| SIM |
+| André Ricardo    | Implementar gerenciamento das atividades e GitPages | SIM |
 | Ariel Rocha      | Implementar a autenticação | NÃO       |
 | Ariel Rocha      | Regras de negócio          | SIM       |
 | Beatriz Stephany | Implementar o logout       | NÃO       |
@@ -208,7 +209,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Caio Oliveira    | Implementar a autenticação | NÃO       |
 | Caio Oliveira    | Regras de Negócio          | SIM       |
 
-#### [](#header-5)Equipe 2
+#### [](#header-3)Equipe 2
 
 |     Integrante     | Atividade                | Concluída |
 |:-------------------|:------------------------ |:----------|
@@ -219,7 +220,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Filip              | Criar Tabelas Setores    |    SIM    |
 | Felipe             | Criar Tabela Usuários    |    SIM    |
 
-#### [](#header-5)Equipe 3
+#### [](#header-3)Equipe 3
 
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
@@ -228,7 +229,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Kid Mendes e Kylciane Freitas |  Tela Tabela de Setores  |    SIM    |
 | Leonardo Monteiro e Jansen |  Tela Tabela de Usuários    |    SIM    |
 
-#### [](#header-5)Equipe 4
+#### [](#header-3)Equipe 4
 
 |     Integrante     | Atividade                         | Concluída |
 |:-------------------|:----------------------------------|:----------|
@@ -238,7 +239,7 @@ Segue abaixo a iteração entre as telas do sistema.
 | Levi Silva         | DER pé de galinha do usuario      |    SIM    |
 | Lorene M.          | Implementar tela de criar usuario |    SIM    |
 
-#### [](#header-5)Equipe 5
+#### [](#header-3)Equipe 5
 
 |     Integrante     | Atividade                         | Concluída |
 |:-------------------|:----------------------------------|:----------|
@@ -251,7 +252,7 @@ Segue abaixo a iteração entre as telas do sistema.
 |Paulo​ ​ Freitas  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ usuários​ ​ cadastrados |SIM|
 |Rodrigo​ ​ Moraes  |Listagem​ ​ de​ ​ todos​ ​ os​ ​ funcionários​ ​ cadastrados |SIM|
 
-#### [](#header-5)Equipe 6
+#### [](#header-3)Equipe 6
 
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
