@@ -19,7 +19,9 @@ Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a
 | Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 | Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 
-### [](#header-2)Requisitos Funcionais (Usuário)
+* * *
+
+## [](#header-2)Requisitos Funcionais (Usuário)
 
 > Inserir aqui breve descrição, conforme fornecido pela equipe responsável.
 Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
@@ -31,7 +33,9 @@ Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a
 | Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 | Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 
-### [](#header-2)Requisitos Funcionais (Sistema)
+* * *
+
+## [](#header-2)Requisitos Funcionais (Sistema)
 
 > Inserir aqui breve descrição, conforme fornecido pela equipe responsável.
 Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
@@ -43,13 +47,39 @@ Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a
 | Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 | Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 
-### [](#header-2)Diagrama de Casos de Uso
+* * *
 
-#### [](#header-4)Header 4
+## [](#header-2)Diagrama de Casos de Uso
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> Inserir aqui breve descrição, conforme fornecido pela equipe responsável.
+Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
+
+* ![Nome do Diagrama](endereçamento pro arquivo)
+* ![Nome do Diagrama](endereçamento pro arquivo)
+* ![Nome do Diagrama](endereçamento pro arquivo)
+* ![Nome do Diagrama](endereçamento pro arquivo)
+* ![Nome do Diagrama](endereçamento pro arquivo)
+* ![Nome do Diagrama](endereçamento pro arquivo)
+* ![Nome do Diagrama](endereçamento pro arquivo)
+
+* * *
+
+## [](#header-2)Análise de Projeto
+
+> Inserir aqui breve descrição, conforme fornecido pela equipe responsável.
+Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
+
+Se for uma tabela pequena, utilizar:
+
+|     Integrante     | Atividade               | Concluída |
+|:-------------------|:------------------------|:----------|
+| Thatielen Oliveira | Organização das tarefas |    SIM    |
+| Thatielen Oliveira | Elaboração de planilhas |    SIM    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+
+Se for uma tabela muito grande, redirecionar para uma página contendo a tabela, utilizando:
+![Tabela](link para a tabela)
 
 ##### [](#header-5)Header 5
 
