@@ -3,7 +3,6 @@ description: "
 <p>
   Documentação do Projeto Zelda
 </p>
-  Sumário: <br>
   1. <a href=\"#1-objetivo\">Objetivo</a> <br>
   2. <a href=\"#2-requisitos\">Requisitos</a>
   <div class=\"tabula\">
@@ -20,14 +19,6 @@ description: "
   </div>
   4. <a href=\"#4-implementação\">Implementação</a> <br>
   5. <a href=\"#5-planejamento-e-gerência\">Planejamento e Gerência</a> <br>
-  <div class=\"tabula\">
-    5.1 <a href=\"#51-equipe-1\">Equipe 1</a> <br>
-    5.2 <a href=\"#52-equipe-2\">Equipe 2</a> <br>
-    5.3 <a href=\"#53-equipe-3\">Equipe 3</a> <br>
-    5.4 <a href=\"#54-equipe-4\">Equipe 4</a> <br>
-    5.5 <a href=\"#55-equipe-5\">Equipe 5</a> <br>
-    5.6 <a href=\"#56-equipe-6\">Equipe 6</a>
-  </div>
 "
 show_downloads: false
 google_analytics: true
