@@ -89,14 +89,14 @@ Se for uma tabela muito grande, redirecionar para uma página contendo a tabela,
 
 |     Integrante     | Atividade               | Concluída |
 |:-------------------|:------------------------|:----------|
-| Ariel Rocha    | Organização das tarefas |    SIM    |
-| Amanda         | Elaboração de planilhas |    SIM    |
-| Ana Jessye     | Elaboração de planilhas |    SIM    |
+| Ariel Rocha    | Implementar autenticação |    NÃO    |
+| Amanda         | Implementar autenticação |    NÃO    |
+| Ana Jessye     | Implementar Logout       |    NÃO    |
 | André Ricardo  | Organização das tarefas, implementação do Login Único, implementação do login do Admin, criar GitPage do Zelda |    SIM    |
-| Boniácio       | Checagem das tarefas    |    NÃO    |
-| Bruno Oliveira | Checagem das tarefas    |    NÃO    |
-| Caio Oliveira  | Checagem das tarefas    |    NÃO    |
-| Stephany       | Checagem das tarefas    |    NÃO    |
+| Boniácio       | Implementar autenticação |    NÃO    |
+| Bruno Oliveira | Implementar Logout       |    NÃO    |
+| Caio Oliveira  | Implementar Autenticação |    NÃO    |
+| Stephany       | Implementar Logout       |    NÃO    |
 
 
 
