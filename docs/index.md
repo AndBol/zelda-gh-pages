@@ -1,129 +1,123 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Zelda Page</title>
+---
+layout: default
+---
 
-    <!-- Bootstrap -->
-    <link href="../app/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-    <link href="../app/static/bootstrap/css/sticky-footer.css" rel="stylesheet">
+[Link to another page](another-page).
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
+There should be whitespace between paragraphs.
 
-    <div class="container text-center">
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-      <div class="jumbotron text-center">
-        <h1>Projeto Zelda</h1>
-        <p></p> 
-      </div>
-  
-      <div class="page-header">
-        <h1>Documentação</h1>
-      </div>
+# [](#header-1)Header 1
 
-      <div class="row">
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-        <div class="col-sm-4">
-          <div class="list-group text-left">
-            <li  class="list-group-item list-group-item-info">
-              Diagramas de Caso de Uso
-            </li>
-            <a href="../docs/casos de uso/1. Cadastro de documentos.png" class="list-group-item" target="_blank">1. Cadastro de documentos</a>
-            <a href="../docs/casos de uso/2. Autuação.png" class="list-group-item" target="_blank">2. Autuação</a>
-            <a href="../docs/casos de uso/3. Movimentação de Documento.png" class="list-group-item" target="_blank">3. Movimentação de Documento</a>
-            <a href="../docs/casos de uso/4. Instrução de Documento.png" class="list-group-item" target="_blank">4. Instrução de Documento</a>
-            <a href="../docs/casos de uso/5. Entranhamento de Processos.png" class="list-group-item" target="_blank">5. Entranhamento de Processos</a>
-            <a href="../docs/casos de uso/6. Desentranhamento de Documentos.png" class="list-group-item" target="_blank">6. Desentranhamento de Documentos</a>
-            <a href="../docs/casos de uso/7. Juntada de processos.png" class="list-group-item" target="_blank">7. Juntada de processos</a>
-            <a href="../docs/casos de uso/8. Dejuntada de Processo.png" class="list-group-item" target="_blank">8. Dejuntada de Processo</a>
-            <a href="../docs/casos de uso/9. Abertura de Volumes de Processos.png" class="list-group-item" target="_blank">9. Abertura de Volumes de Processos</a>
-            <a href="../docs/casos de uso/10. Encerramento.png" class="list-group-item" target="_blank">10. Encerramento</a>
-            <a href="../docs/casos de uso/11. Arquivamento de documentos.png" class="list-group-item" target="_blank">11. Arquivamento de documentos</a>
-            <a href="../docs/casos de uso/12. Consultas ou vista  a documento.jpeg" class="list-group-item" target="_blank">12. Consultas ou vista  a documento</a>
-            <a href="../docs/casos de uso/13. Reabertura de documentos.png" class="list-group-item" target="_blank">13. Reabertura de documentos</a>
-            <a href="../docs/casos de uso/14. Reconstituição de Documentos.png" class="list-group-item" target="_blank">14. Reconstituição de Documentos</a>
-          </div>
-        </div><!-- /.col-sm-4 -->
+## [](#header-2)Header 2
 
-        <div class="col-sm-4">
-          <div class="list-group text-left">
-            <li  class="list-group-item list-group-item-success">
-              Diagramas de Atividade
-            </li>
-            <a href="../docs/diagramas de atividade/Autuar processo.png" class="list-group-item" target="_blank">1. Autuar processo</a>
-            <a href="../docs/diagramas de atividade/Busca avançada de Interessado.png" class="list-group-item" target="_blank">2. Busca avançada de Interessado</a>
-            <a href="../docs/diagramas de atividade/cadastrar interessado.png" class="list-group-item" target="_blank">3. cadastrar interessado</a>
-            <a href="../docs/diagramas de atividade/Checagem de processos atraves da area do usuario.png" class="list-group-item" target="_blank">
-              4. Checagem de processos atraves da area do usuario
-            </a>
-            <a href="../docs/diagramas de atividade/Envio de Processo.png" class="list-group-item" target="_blank">5. Envio de Processo</a>
-            <a href="../docs/diagramas de atividade/Filtrar Processos por Assunto.png" class="list-group-item" target="_blank">6. Filtrar Processos por Assunto</a>
-            <a href="../docs/diagramas de atividade/Filtrar Processos por Setor.png" class="list-group-item" target="_blank">7. Filtrar Processos por Setor</a>
-            <a href="../docs/diagramas de atividade/Imprimir_Capa.png" class="list-group-item" target="_blank">8. Imprimir_Capa</a>
-            <a href="../docs/diagramas de atividade/Juntada de Documentos.png" class="list-group-item" target="_blank">9. Juntada de Documentos</a>
-            <a href="../docs/diagramas de atividade/Login.png" class="list-group-item" target="_blank">10. Login</a>
-            <a href="../docs/diagramas de atividade/Perguntas Frequentes.png" class="list-group-item" target="_blank">11. Perguntas Frequentes</a>
-            <a href="../docs/diagramas de atividade/Pesquisa de Processo Por Interessado.png" class="list-group-item" target="_blank">
-              12. APesquisa de Processo Por Interessado
-            </a>
-            <a href="../docs/diagramas de atividade/Processos Recebidos.png" class="list-group-item" target="_blank">13. Processos Recebidos</a>
-            <a href="../docs/diagramas de atividade/Rastrear processo.png" class="list-group-item" target="_blank">14. Rastrear processo</a>
-            <a href="../docs/diagramas de atividade/Relatorio de processo por orgao externo.png" class="list-group-item" target="_blank">
-              15. Relatorio de processo por orgao externo
-            </a>
-            <a href="../docs/diagramas de atividade/Solicitação de Processos.png" class="list-group-item" target="_blank">16. Solicitação de Processos</a>
-          </div>
-        </div><!-- /.col-sm-4 -->
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-        <div class="col-sm-4">
-          <div class="list-group text-left">
-            <li  class="list-group-item list-group-item-warning">
-              Diagrama Entidade Relacionamento
-            </li>
-            <a href="../docs/diagramas er/ER Diagram0.1.png" class="list-group-item" target="_blank">1. ER Diagram0.1</a>
-          </div>
-        </div><!-- /.col-sm-4 -->
-      </div>
+### [](#header-3)Header 3
 
-      <div class="page-header">
-        <h1>Telas</h1>
-      </div>
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
-      <div class="row">
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
-        <div class="col-sm-4">
-          <div class="list-group text-left">
-            <li  class="list-group-item list-group-item-info">
-              Telas
-            </li>
-            <a href="../app/templates/CadastroFuncionario.html" class="list-group-item" target="_blank" >1. Cadastro de Funcionario</a>
-            <a href="../app/templates/EditarFuncionario.html" class="list-group-item" target="_blank" >2. Edição de Dados do Funcionário</a>
-          </div>
-        </div><!-- /.col-sm-4 -->
-      </div>
+#### [](#header-4)Header 4
 
-    </div>
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-    <footer class="footer text-center">
-      <div class="container">
-        <p class="text-muted">Modelagem e Projeto de Sistema - Projeto Zelda.</p>
-      </div>
-    </footer>
+##### [](#header-5)Header 5
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="../app/static/bootstrap/js/bootstrap.min.js"></script>
-  </body>
-</html>
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### [](#header-6)Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
