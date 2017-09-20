@@ -7,28 +7,43 @@ O Zelda é parte de um sistema de protocolo de documentos. Está sendo implement
 
 Nessa GitPage, será listada a documentação do sistema, como foi requisitado.
 
-## [](#header-2)Header 2
+## [](#header-2)Requisitos Não Funcionais
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Inserir aqui breve descrição do que são os requisitos não funcionais, conforme fornecido pela equipe responsável.
+Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
 
-### [](#header-3)Header 3
+|     Integrante     | Atividade               | Concluída |
+|:-------------------|:------------------------|:----------|
+| Thatielen Oliveira | Organização das tarefas |    SIM    |
+| Thatielen Oliveira | Elaboração de planilhas |    SIM    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### [](#header-2)Requisitos Funcionais (Usuário)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> Inserir aqui breve descrição, conforme fornecido pela equipe responsável.
+Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
+
+|     Integrante     | Atividade               | Concluída |
+|:-------------------|:------------------------|:----------|
+| Thatielen Oliveira | Organização das tarefas |    SIM    |
+| Thatielen Oliveira | Elaboração de planilhas |    SIM    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+
+### [](#header-2)Requisitos Funcionais (Sistema)
+
+> Inserir aqui breve descrição, conforme fornecido pela equipe responsável.
+Essa tabela pode ter mais de 3 colunas e mais de 6 linhas. Vai depender do que a equipe fornecer.
+
+|     Integrante     | Atividade               | Concluída |
+|:-------------------|:------------------------|:----------|
+| Thatielen Oliveira | Organização das tarefas |    SIM    |
+| Thatielen Oliveira | Elaboração de planilhas |    SIM    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+| Thatielen Oliveira | Checagem das tarefas    |    NÃO    |
+
+### [](#header-2)Diagrama de Casos de Uso
 
 #### [](#header-4)Header 4
 
